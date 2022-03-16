@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @maryann
+- 👀 I’m interested in ... drawing and web development
+- 🌱 I’m currently learning ... laravel livewire, react & drawing anatomy
+- 📫 You can also check my online portfolios!
+- as a digital artist: https://maryannabuabu.wixsite.com/maryann/artworks
+- as a web developer: https://maryannabuabu.wixsite.com/maryannabuabu
