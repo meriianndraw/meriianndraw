@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @meriiann
-- 📫 Online Portfolio
-- https://maryann.team-ocampo.com/
